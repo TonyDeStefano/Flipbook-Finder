@@ -9,8 +9,6 @@ if ( ! defined( 'ABSPATH' ) )
 
 $flipbooks = $this->get_flipbooks();
 
-var_dump(ABSPATH);
-
 ?>
 
 <div class="wrap">
